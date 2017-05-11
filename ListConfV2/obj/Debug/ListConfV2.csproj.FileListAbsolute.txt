@@ -1,0 +1,16 @@
+C:\Users\erick\Desktop\ListConfV2\ListConfV2\bin\Debug\ListConfV2.exe.config
+C:\Users\erick\Desktop\ListConfV2\ListConfV2\bin\Debug\ListConfV2.exe
+C:\Users\erick\Desktop\ListConfV2\ListConfV2\bin\Debug\ListConfV2.pdb
+C:\Users\erick\Desktop\ListConfV2\ListConfV2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\erick\Desktop\ListConfV2\ListConfV2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\erick\Desktop\ListConfV2\ListConfV2\obj\Debug\ListConfV2.csprojResolveAssemblyReference.cache
+C:\Users\erick\Desktop\ListConfV2\ListConfV2\obj\Debug\MainWindow.g.cs
+C:\Users\erick\Desktop\ListConfV2\ListConfV2\obj\Debug\App.g.cs
+C:\Users\erick\Desktop\ListConfV2\ListConfV2\obj\Debug\ListConfV2_MarkupCompile.cache
+C:\Users\erick\Desktop\ListConfV2\ListConfV2\obj\Debug\ListConfV2_MarkupCompile.lref
+C:\Users\erick\Desktop\ListConfV2\ListConfV2\obj\Debug\MainWindow.baml
+C:\Users\erick\Desktop\ListConfV2\ListConfV2\obj\Debug\ListConfV2.g.resources
+C:\Users\erick\Desktop\ListConfV2\ListConfV2\obj\Debug\ListConfV2.Properties.Resources.resources
+C:\Users\erick\Desktop\ListConfV2\ListConfV2\obj\Debug\ListConfV2.csproj.GenerateResource.Cache
+C:\Users\erick\Desktop\ListConfV2\ListConfV2\obj\Debug\ListConfV2.exe
+C:\Users\erick\Desktop\ListConfV2\ListConfV2\obj\Debug\ListConfV2.pdb
